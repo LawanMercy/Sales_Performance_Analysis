@@ -16,6 +16,6 @@ The dataset used for this project was gotten from R&S Supermarket, it contained 
 ### Data Cleaning and Transformation
 
 The data was loaded into Excel Power Query, where I performed cleaning and transformation. I checked for null values and errors, and found none in the dataset. I verified the data types for each column, and while most were correct, I changed the data type for the Postal Code and Product ID columns from 'Number' to 'Text'. I also split the Location ID column using the 'Split Column by Delimiter' command, which separated it into two columns. I deleted 'Location ID.2' as it was not needed for the analysis and renamed 'Location ID.1' to 'Location ID'. Finally, I changed its data type to 'Text'.
-
+![Data Transformation](
 ### Data Modeling
 -
