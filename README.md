@@ -66,11 +66,11 @@ The following Entity-Relationship diagram illustrates the star schema model used
 The following Entity-Relationship diagram illustrates the star schema model used in this analysis. The data originates from a facts order table supported by five dimension tables:
 
 The following metrics are derived from the Order Fact Table:
-  - Total Sales = SUM(Sales)
-  - Total Profit = SUM(Profit)
-  - Average Discount = Average(Discount)
-  - Total Quantity Sold = SUM(Quantity)
-  - Sales by Customer Segment
-  - Sales Trend Over Time
-  - Top Performing Products
-  - Sales by Region and City
+| Metrics      | Value   | 
+| ---------------- | --------- |
+| Total Profit   | $286,397 |
+| Total Product     | 1,894 items |
+| Total Orders    |9,994 | 
+| Total Revenue    | $2,297,201  |
+| Previous Year Revenue |$2,297,201 |
+| Average Shipping Days |4 |
