@@ -42,6 +42,7 @@ The data was loaded into Excel Power Query, where I performed cleaning and trans
   <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Product.png?raw=true" width="500">
     <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Calender.png?raw=true" width="500">
 </p>
+![Order Facts Table](https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/ER%20Diagram.png)
 
 ### ER Diagram
 
@@ -58,5 +59,7 @@ The following Entity-Relationship diagram illustrates the star schema model used
         - Dim Location via Location ID
 - This relationship ensures referential integrity and enable multi-perspective analysis
 
+### Key Metrics and Key Performance Indicators Analyzed
 
+The following Entity-Relationship diagram illustrates the star schema model used in this analysis. The data originates from a facts order table supported by five dimension tables:
 
