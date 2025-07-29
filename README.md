@@ -34,3 +34,14 @@ The data was loaded into Excel Power Query, where I performed cleaning and trans
   <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Product.png?raw=true" width="500">
     <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Calender.png?raw=true" width="500">
 </p>
+
+### ER Diagram
+
+The following Entity-Relationship diagram illustrates the star schema model used in this analysis:
+
+![ER Diagram](https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/ER%20Diagram.png)
+
+### ER Diagram
+
+The following Entity-Relationship diagram illustrates the star schema model used in this analysis:
+
