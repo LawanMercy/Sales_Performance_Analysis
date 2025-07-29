@@ -74,3 +74,36 @@ The following metrics are derived from the Order Fact Table:
 | Total Revenue    | $2,297,201  |
 | Previous Year Revenue |$2,297,201 |
 | Average Shipping Days |4 |
+
+**Trend Analysis**
+- **Sales Over Time**
+  - Highest sales observed in Q4 across most years, likely due to holiday shopping
+  - Month-over-month sales fluctuated with spikes in November and December
+  - Weekly patterns show Monday and Friday as peak sales days
+- **Profit Over Time**
+  - Profit trends mirror sales but with noticeable drops in months with high discounts
+  - Q2 saw high revenue but low profit due to promotional campaigns
+
+**Customer Analysis**
+- **Segment-Wise Sales**
+  - Consumer segment generate highest revenue, followed by the coeporate segment.
+  - Home Office segment is growing but it has the lowest profit margins.
+- **Retention Opportunity**
+  - High value customers with decreasing monthly sales can be targeted for retention campaigns
+    
+
+### Key Insights Based on Analysis
+
+1.  Technology product category generates more profit for the business, with technology having the highest profit in  2015, 2016, and 2017. While office supplies has the highest profit in 2014.
+
+2.  The consumer segement generates more profit for the business, it has displayed a consistent profitability trend throught the years.
+
+3.  The top customers who are generating more profits for the business varies over the years.  In 2017,  we have Raymond Buch, Hunter Lopez, Tom Ashbrook, Andy Relter and Jame Waco as the top 5 customers.
+In  2016, we have Tamara Chand, Adrian Barton, Sanjit Engle, Bill Shonely and Daniel Raglin, as the top customers.
+In 2015 and 2014, we also have different sets of top 5 customer. which denoted we need to look into our customer service/satisfactory concern of our customers
+
+4.  Majority of the sold products falls under office supplies.
+
+5. Revenue were mostly generate in Califonia, New York, Washington and Pnnsyvania and the company generate the least revenues from Wyoming, South Dakota, West  Virginia, and North Dakota.
+
+6. Majority of our order <img width="2084" height="420" alt="image" src="https://github.com/user-attachments/assets/03c8e2cf-ba62-4bd2-ae7f-6e5332769615" />
