@@ -106,4 +106,6 @@ In 2015 and 2014, we also have different sets of top 5 customer. which denoted w
 
 5. Revenue were mostly generate in Califonia, New York, Washington and Pnnsyvania and the company generate the least revenues from Wyoming, South Dakota, West  Virginia, and North Dakota.
 
-6. Majority of our order <img width="2084" height="420" alt="image" src="https://github.com/user-attachments/assets/03c8e2cf-ba62-4bd2-ae7f-6e5332769615" />
+6. Majority of our order Perecntage are placed through standard Class.
+
+
