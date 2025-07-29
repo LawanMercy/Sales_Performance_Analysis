@@ -25,6 +25,14 @@ The data was loaded into Excel Power Query, where I performed cleaning and trans
 3. The Dim Customers was created
 4. The facts table contains the measures and the facts about the data.
 
+| Table Name       | Type      | Key Field   | Description                                            |
+| ---------------- | --------- | ----------- | ------------------------------------------------------ |
+| Dim Customers    | Dimension | Customer ID | Contains customer details like name                    |
+| Dim Product      | Dimension | Product ID  | Categorizes products by name, category, sub-category   |
+| Dim Location     | Dimension | Location ID | Contains geographic attributes (city, state, region)   |
+| Dim Calendar     | Dimension | Date        | Time attributes such as year, quarter, month           |
+| Order Fact Table | Fact      | Order ID    | Core transactional data: sales, profit, quantity, etc. |
+
 <p>
   <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Customers.png?raw=true" width="500">
   <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Location.png?raw=true" width="500">
@@ -37,11 +45,18 @@ The data was loaded into Excel Power Query, where I performed cleaning and trans
 
 ### ER Diagram
 
-The following Entity-Relationship diagram illustrates the star schema model used in this analysis:
+The following Entity-Relationship diagram illustrates the star schema model used in this analysis. The data originates from a facts order table supported by five dimension tables:
 
 ![ER Diagram](https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/ER%20Diagram.png)
 
-### ER Diagram
+### Table Relationship
+- Fact to Dimensions Relationships:
+    - Many-to-one from Order Fact Table to:
+        - Dim Product via Product ID
+        - Dim Customers via Customer ID
+        - Dim Calender via Order Date
+        - Dim Location via Location ID
+- This relationship ensures referential integrity and enable multi-perspective analysis
 
-The following Entity-Relationship diagram illustrates the star schema model used in this analysis:
+
 
