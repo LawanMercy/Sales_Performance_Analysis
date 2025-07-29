@@ -25,4 +25,4 @@ The data was loaded into Excel Power Query, where I performed cleaning and trans
 3. The Dim Customers was created
 4. The facts table contains the measures and the facts about the data.
 
-| !Dim Customers](image1.png) | ![Dim Location](image2.png) |
+| !Dim Customers](DimCustomers.png) | ![Dim Location](Dimlocation.png) |
