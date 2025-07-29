@@ -61,7 +61,7 @@ The following Entity-Relationship diagram illustrates the star schema model used
         - Dim Location via Location ID
 - This relationship ensures referential integrity and enable multi-perspective analysis
 
-### Key Metrics and Key Performance Indicators Analyzed
+# Key Metrics and Key Performance Indicators Analyzed
 
 The following Entity-Relationship diagram illustrates the star schema model used in this analysis. The data originates from a facts order table supported by five dimension tables:
 
@@ -92,7 +92,7 @@ The following metrics are derived from the Order Fact Table:
   - High value customers with decreasing monthly sales can be targeted for retention campaigns
     
 
-### Key Insights Based on Analysis
+# Key Insights Based on Analysis
 
 1.  Technology product category generates more profit for the business, with technology having the highest profit in  2015, 2016, and 2017. While office supplies has the highest profit in 2014.
 
@@ -107,5 +107,15 @@ In 2015 and 2014, we also have different sets of top 5 customer. which denoted w
 5. Revenue were mostly generate in Califonia, New York, Washington and Pnnsyvania and the company generate the least revenues from Wyoming, South Dakota, West  Virginia, and North Dakota.
 
 6. Majority of our order Perecntage are placed through standard Class.
+
+# Recommendation
+
+1. ** Optimize Discounts and Incentives:** Limit to 20% on high-performing products. Give insentives to customers generating more profit to the company, have a follow-up routine with customers, as I noticed our top customers throughout the years are not being retained.
+
+2. **Geo-targeted Strategies:** Expand to underperforming regions with promotional offers. By conducting a location analysis for the states earning low revenues, It can help determine what factors are contributing to the low sales.
+
+3. **Focus On Growing Segments:** Enhance marketing for the Home Office segment due to rising engagement. Allocate more funds to advertising in those states, and train sale support team in those states to help grow their productivity.
+
+4. **Time-based Promotions:** Run campaigns aligned with high-traffic months (Q4 and Q2)
 
 
