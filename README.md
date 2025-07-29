@@ -16,6 +16,13 @@ The dataset used for this project was gotten from R&S Supermarket, it contained 
 ### Data Cleaning and Transformation
 
 The data was loaded into Excel Power Query, where I performed cleaning and transformation. I checked for null values and errors, and found none in the dataset. I verified the data types for each column, and while most were correct, I changed the data type for the Postal Code and Product ID columns from 'Number' to 'Text'. I also split the Location ID column using the 'Split Column by Delimiter' command, which separated it into two columns. I deleted 'Location ID.2' as it was not needed for the analysis and renamed 'Location ID.1' to 'Location ID'. Finally, I changed its data type to 'Text'.
-![Data Transformation](
+
+![Data Transformation](https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Data%20Transformation.png)
+
 ### Data Modeling
--
+1. I first identidied the entities and attributes.
+2. Entities: product, Customers, Location.
+3. The Dim Customers was created
+4. The facts table contains the measures and the facts about the data.
+
+| !Dim Customers](image1.png) | ![Dim Location](image2.png) |
