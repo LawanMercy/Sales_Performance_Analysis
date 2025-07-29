@@ -42,7 +42,9 @@ The data was loaded into Excel Power Query, where I performed cleaning and trans
   <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Product.png?raw=true" width="500">
     <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Calender.png?raw=true" width="500">
 </p>
-![Order Facts Table](https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/ER%20Diagram.png)
+
+![Order Fact Table](https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Order%20Facts%20Table.png)
+
 
 ### ER Diagram
 
@@ -63,3 +65,12 @@ The following Entity-Relationship diagram illustrates the star schema model used
 
 The following Entity-Relationship diagram illustrates the star schema model used in this analysis. The data originates from a facts order table supported by five dimension tables:
 
+The following metrics are derived from the Order Fact Table:
+  - Total Sales = SUM(Sales)
+  - Total Profit = SUM(Profit)
+  - Average Discount = Average(Discount)
+  - Total Quantity Sold = SUM(Quantity)
+  - Sales by Customer Segment
+  - Sales Trend Over Time
+  - Top Performing Products
+  - Sales by Region and City
