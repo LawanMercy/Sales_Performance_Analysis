@@ -31,6 +31,6 @@ The data was loaded into Excel Power Query, where I performed cleaning and trans
 </p>
 
 <p>
-  <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Customers.png?raw=true" width="400">
-  <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Location.png?raw=true" width="400">
+  <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Product.png?raw=true" width="500">
+    <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Calender.png?raw=true" width="500">
 </p>
