@@ -25,4 +25,12 @@ The data was loaded into Excel Power Query, where I performed cleaning and trans
 3. The Dim Customers was created
 4. The facts table contains the measures and the facts about the data.
 
-| !Dim Customers](DimCustomers.png) | ![Dim Location](Dimlocation.png) |
+<p>
+  <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Customers.png?raw=true" width="500">
+  <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Location.png?raw=true" width="500">
+</p>
+
+<p>
+  <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Customers.png?raw=true" width="400">
+  <img src="https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/Dim%20Location.png?raw=true" width="400">
+</p>
