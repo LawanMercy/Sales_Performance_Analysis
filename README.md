@@ -4,4 +4,4 @@ R &amp; S Superstore is a leading retail company with operations across multiple
 # Executive Summary
 This report presents a detailed analysis of sales performance of R & S superstore. Based on the star schema data model and KPIs extracted from the dataset. The objective is to evaluate key sales indicators, identify trends, and provide actionable insights to support business growth and operational efficiency.
 
-![dashboard]
+![dashboard](https://github.com/LawanMercy/Sales_Performance_Analysis/blob/main/dashboard.jpeg)
