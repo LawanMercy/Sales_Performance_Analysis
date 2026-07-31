@@ -119,4 +119,4 @@ In 2015 and 2014, we also have different sets of top 5 customer. which denoted w
 4. **Time-based Promotions:** Run campaigns aligned with high-traffic months (Q4 and Q2)
 
 ### Author
-[Lawan Opeyemi Mercy](https://www.linkedin.com/in/opeyemi-mercy-lawan-81a048276/)
+[Opeyemi Mercy Lawan](https://www.linkedin.com/in/opeyemi-mercy-lawan-81a048276/)
