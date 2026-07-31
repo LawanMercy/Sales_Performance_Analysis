@@ -110,7 +110,7 @@ In 2015 and 2014, we also have different sets of top 5 customer. which denoted w
 
 # Recommendation
 
-1. ** Optimize Discounts and Incentives:** Limit to 20% on high-performing products. Give insentives to customers generating more profit to the company, have a follow-up routine with customers, as I noticed our top customers throughout the years are not being retained.
+1. **Optimize Discounts and Incentives:** Limit to 20% on high-performing products. Give insentives to customers generating more profit to the company, have a follow-up routine with customers, as I noticed our top customers throughout the years are not being retained.
 
 2. **Geo-targeted Strategies:** Expand to underperforming regions with promotional offers. By conducting a location analysis for the states earning low revenues, It can help determine what factors are contributing to the low sales.
 
